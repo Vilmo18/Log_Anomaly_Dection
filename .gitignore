@@ -1,0 +1,4 @@
+/raw
+/processed
+# large logs
+*.log
