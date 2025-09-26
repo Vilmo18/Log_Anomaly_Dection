@@ -1,4 +1,5 @@
-/raw
-/processed
+data/raw
+/data/processed
 # large logs
 *.log
+.venv/
